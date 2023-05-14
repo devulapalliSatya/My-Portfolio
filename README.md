@@ -11,3 +11,6 @@
 # Install "next package" again using terminal
 # Install "node modules" again in terminal
 # Install "Package.json and Package-lock.json" files again
+
+# Visit the website, to see the model of the project...
+https://devulapallisatya-portfolio.netlify.app
